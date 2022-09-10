@@ -5,6 +5,6 @@ public class arithematic {
         if (a>b)
             System.out.println("A is greater");
         else
-            System.out.println("B is gretaer");
+            System.out.println("B is gretaer 12");
     }
 }
