@@ -6,7 +6,9 @@ public class AreaOfCircle {
         double area=pie*r1*r2;
 
         // now I am making changes
-        System.out.println("Area Of Circle ="+area);
+
+
+        System.out.println(area);
         
     }
 }
