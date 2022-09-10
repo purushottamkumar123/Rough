@@ -5,7 +5,7 @@ public class Marks {
     public static void main(String[] args) {
         int marks;
         Scanner sc =new Scanner(System.in);
-        System.out.println("Enter Marks:");
+        System.out.println("Enter Marks");
         marks= sc.nextInt();
 
         if (marks>=1 && marks<=100){
