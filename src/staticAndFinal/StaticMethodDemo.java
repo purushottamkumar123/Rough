@@ -11,12 +11,14 @@ public class StaticMethodDemo {
         System.out.println("Student College Name ="+clname);
         nonStaticMethod();
         StaticMethod1();
-        StaticMethod2();
+      //  StaticMethod2(); // amol commented
     }
     public void nonStaticMethod()
     {
         System.out.println("Print Non Static Method");
         System.out.println("Student Name ="+name);
+
+        // amol added
     }
    public static void StaticMethod1()
     {
